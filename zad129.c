@@ -22,7 +22,7 @@ int main()
     }
 
 	
-	// MAtrica je rijetka ako joj je vecina elemenata 0.
+	// Matrica je rijetka ako joj je vecina elemenata 0.
     /*
      	Broji ukupan broj nula u matrici.
      */
